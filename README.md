@@ -1,7 +1,11 @@
 ## Hi there👋 My name is Olga Mirocz!
 
-### 🏡 I'm a JavaScript Developer
-### 🔭 I’m currently learning React and TypeScript
+##### 🏡 I'm a JavaScript Developer
+##### 🔭 I’m currently learning React and TypeScript
+
+
+### Recent Projects
+A gallery of recent projects I've created - [link](https://yellowgiraffe.github.io/gallery-of-projects/)
 
 ### Languages and technologies
 
