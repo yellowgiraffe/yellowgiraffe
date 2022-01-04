@@ -1,12 +1,20 @@
 ## Hi there👋 My name is Olga Mirocz!
 
-### 🏡 I'm an aspiring Front-end developer from Siedlce, Poland
-### 🔭 I’m currently learning JavaScript
+### 🏡 I'm a JavaScript Developer
+### 🔭 I’m currently learning React and TypeScript
 
 ### Languages and technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=JavaScript)
-![Gulp](https://img.shields.io/badge/-Gulp-blue?style=flat-square&logo=Gulp)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React)
+![NodeJS](https://img.shields.io/badge/-NodeJS-blue?style=flat-square&logo=Node.js)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=PostgreSQL)
+![Sequelize](https://img.shields.io/badge/-Sequelize-blue?style=flat-square&logo=Sequelize)
+![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-square&logo=MongoDB)
+![Mongoose](https://img.shields.io/badge/-Mongoose-blue?style=flat-square&logo=Mongoose)
+
+![PUG](https://img.shields.io/badge/-PUG-blue?style=flat-square&logo=PUG)
 ![Sass/Scss](https://img.shields.io/badge/-Sass/Scss-blue?style=flat-square&logo=Sass)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-blue?style=flat-square&logo=HTML5)
